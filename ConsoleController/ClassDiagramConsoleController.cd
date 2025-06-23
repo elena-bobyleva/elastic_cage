@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleController.Game.ConsoleEndGameController" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACABAAAAAAAAAAEAAAAACAAAIEAAAEAAAAA=</HashCode>
+      <FileName>Game\ConsoleEndGameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleController.Game.ConsoleGameController" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAAAAAAAAAEAAAAACAAAIAAAAEAQAAA=</HashCode>
+      <FileName>Game\ConsoleGameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleController.Menu.ConsoleMainMenuController" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAABAAAAEAAAAACAAAIAAAAEAAAAA=</HashCode>
+      <FileName>Menu\ConsoleMainMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleController.Records.ConsoleRecordsController" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAEAAAAACAAAIAAAAEAAAAA=</HashCode>
+      <FileName>Records\ConsoleRecordsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleController.Rule.ConsoleRuleController" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAEAAAAACAAAIAAAAEAAAAA=</HashCode>
+      <FileName>Rule\ConsoleRuleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleController.ConsoleControllers" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgABAAAAQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleControllers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Controllers.Controllers" Collapsed="true">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Game.EndGameController" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Game.GameController" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Menu.MainMenuController" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Records.RecordsController" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Rule.RuleController" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Controller" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

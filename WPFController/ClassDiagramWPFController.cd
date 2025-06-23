@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WPFController.Game.WPFEndGameController" Collapsed="true">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACABAAAAAAAAAAEAAAIAAAAAIEAAAEAAAAg=</HashCode>
+      <FileName>Game\WPFEndGameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFController.Game.WPFGameController" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACQAAAAAAAAAAAEAAAAAAAAAIAAAAEAQAAg=</HashCode>
+      <FileName>Game\WPFGameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFController.Menu.WPFMainMenuController" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAABAAAAEAAAAAAAAAIAAAAEAAAAg=</HashCode>
+      <FileName>Menu\WPFMainMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFController.Records.WPFRecordsController" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAACAAAEAAAAAAAAAIAAAAEAAAAg=</HashCode>
+      <FileName>Records\WPFRecordsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFController.Rule.WPFRuleController" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAEAAAAEAAAAAAAAAIAAAAEAAAAg=</HashCode>
+      <FileName>Rule\WPFRuleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFController.WPFControllers" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <InheritanceLine Type="Controller.Controllers.Controllers" FixedFromPoint="true">
+      <Path>
+        <Point X="3.25" Y="4.312" />
+        <Point X="4" Y="4.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgABAAAAQAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WPFControllers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Controller" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Controllers.Controllers" Collapsed="true">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Game.EndGameController" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Game.GameController" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Menu.MainMenuController" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Records.RecordsController" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Controller.Rule.RuleController" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

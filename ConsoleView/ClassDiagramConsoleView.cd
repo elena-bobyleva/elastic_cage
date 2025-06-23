@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleView.Game.ConsoleEndGameView" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAQIAAAAAABSAABAAAA=</HashCode>
+      <FileName>Game\ConsoleEndGameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Game.ConsoleGameView" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAABAAAQAAAABAAAAAAAA=</HashCode>
+      <FileName>Game\ConsoleGameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Game.GameOutput" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQEAAAAAQAAgAAAAAAAAAIAAEAAAQABAAAAABAA=</HashCode>
+      <FileName>Game\GameOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Game.Entities.ConsoleEntityView" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAABAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Entities\ConsoleEntityView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Menu.ConsoleMenuView" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAABQIAAAAAABCAABAAAA=</HashCode>
+      <FileName>Menu\ConsoleMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Menu.Output" Collapsed="true">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAIAAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>Menu\Output.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Menu.Elements.ConsoleButtonElementView" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAABQAAAAAAABAAABAAAA=</HashCode>
+      <FileName>Menu\Elements\ConsoleButtonElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Menu.Elements.ConsoleLabelElementView" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Elements\ConsoleLabelElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Menu.Elements.ConsoleTextBoxElementView" Collapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAABQAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Menu\Elements\ConsoleTextBoxElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Records.ConsoleRecordsView" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAQIAAAAAABCAABAAAA=</HashCode>
+      <FileName>Records\ConsoleRecordsView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.Rule.ConsoleRuleView" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAQIAAAAAABCAABAAAA=</HashCode>
+      <FileName>Rule\ConsoleRuleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.EndGameView" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.GameView" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.Entities.EntityView" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.View" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.ButtonElementView" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.LabelElementView" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.TextBoxElementView" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.MainMenuView" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Records.RecordsView" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Rule.RuleView" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

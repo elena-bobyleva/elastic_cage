@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WPFView.Game.Entities.WPFEntityView" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAgAAAAADAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Entities\WPFEntityView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Game.GameOutput" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAQAAAgAAAAAAAAACAAIAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Game\GameOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Game.WPFEndGameView" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAAICAAAAABaAAAAAAg=</HashCode>
+      <FileName>Game\WPFEndGameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Game.WPFGameView" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACQAAAABAAAAAAAg=</HashCode>
+      <FileName>Game\WPFGameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Menu.Elements.WPFButtonElementView" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAAAAJQAAAAIAABKAABAAAA=</HashCode>
+      <FileName>Menu\Elements\WPFButtonElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Menu.Elements.WPFLabelElementView" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAACAABAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Elements\WPFLabelElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Menu.Elements.WPFTextBoxElementView" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="View.Menu.Elements.TextBoxElementView" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.5" Y="6.125" />
+        <Point X="9.5" Y="6.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAgAAABAAAAAAABQAAAAAAABKAABAAAA=</HashCode>
+      <FileName>Menu\Elements\WPFTextBoxElementView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Menu.Output" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Menu\Output.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Menu.WPFMainMenuView" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAAICAAAAABCAAAAAAg=</HashCode>
+      <FileName>Menu\WPFMainMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Records.WPFRecordsView" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAAICAAAAABKAAAAAAg=</HashCode>
+      <FileName>Records\WPFRecordsView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.Rule.WPFRuleView" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAAAICAAAAABKAAAAAAg=</HashCode>
+      <FileName>Rule\WPFRuleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFView.ScreenWindow" Collapsed="true">
+    <Position X="1.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAABAAIAAAAAAACAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ScreenWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.EndGameView" Collapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.GameView" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.Entities.EntityView" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.ButtonElementView" Collapsed="true">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="View.View" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.312" />
+        <Point X="6.75" Y="1.888" />
+        <Point X="6.768" Y="1.888" />
+        <Point X="6.768" Y="7.188" />
+        <Point X="7" Y="7.188" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.LabelElementView" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="View.View" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.312" />
+        <Point X="6.75" Y="1.875" />
+        <Point X="6.768" Y="1.875" />
+        <Point X="6.768" Y="5.062" />
+        <Point X="7" Y="5.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.Elements.TextBoxElementView" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="View.View" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.312" />
+        <Point X="6.75" Y="1.878" />
+        <Point X="6.768" Y="1.878" />
+        <Point X="6.768" Y="6.125" />
+        <Point X="7" Y="6.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.MainMenuView" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Records.RecordsView" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Rule.RuleView" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.View" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

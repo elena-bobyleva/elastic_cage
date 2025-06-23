@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.Game.Entities.ElectricBall" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAABAQgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Entities\ElectricBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Entities.Entity" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIIAAQAAAAAAAABAAAARAAAAAAAAAAAEAAAYAA=</HashCode>
+      <FileName>Game\Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Entities.SpaceShip" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Entities\SpaceShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.EndGame" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAgAAAAgAAAAAAAAAAAAAAgAAAAAAAAABAAA=</HashCode>
+      <FileName>Game\EndGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Game" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAIjgAAACAGoUIgAAIYAgQggBAgCCACAhANYJIGARAA=</HashCode>
+      <FileName>Game\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Elements.ButtonElement" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAAABATAAAAAA=</HashCode>
+      <FileName>Menu\Elements\ButtonElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Elements.LabelElement" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>Menu\Elements\LabelElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Elements.TextBoxElement" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAABACAAACAA=</HashCode>
+      <FileName>Menu\Elements\TextBoxElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.MainMenu" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ScreenMenu" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAgCAQBAAAAAQAAAEIBAQACgABIAAAAAAA=</HashCode>
+      <FileName>ScreenMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Screen" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Rule.Rule" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rule\Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Records.Records" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Records\Records.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Records.RecordsFile" Collapsed="true">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Records\RecordsFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Model.Enums.DirectionsType" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAIAAABAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>Enum\DirectionsType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Model.Enums.EntitiesType" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Enum\EntitiesType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Model.Enums.MenuItemCodes" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAAAAAAAAAAAAABAAIAAAAIAAAAAAQAAA=</HashCode>
+      <FileName>Enum\MenuItemCodes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Model.Enums.States" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enum\States.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
